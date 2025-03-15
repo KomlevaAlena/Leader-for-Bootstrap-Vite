@@ -12,7 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.85.1",
-    "vite": "^6.2.2"
+    "vite": "^6.2.2",
+    "vite-plugin-svg-icons": "^2.0.1"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
